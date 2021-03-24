@@ -4,23 +4,27 @@
 [![GitHub Views](https://komarev.com/ghpvc/?username=zaberazaber&color=FAC151)][1]
 [![typescript](https://img.shields.io/badge/TypeScript-Fan-FAC151.svg?logo=typescript&logoWidth=20)](https://github.com/zaberazaber)
 
-Hey 👋🏻,
-I am interested in, write about and develop (open source) software solutions
-for and with JavaScript, TypeScript, ReactJS and NodeJS.
-- 🎓 &nbsp; Software Engineer.
-- 💼 &nbsp; Working as a Developer.
+<h2> Hi, I'm Zubair! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
+<p><em></br>Software Enginner at <a href="https://www.thoughtworks.com">Accenture</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+</em></p>
+
+
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+
+```javascript
+const zubair = {
+  code: [Javascript, Typescript, HTML, CSS, , SQL, NodeJS],
+  tools: [React, Redux, Node, Storybook, Styled-Components, Jest],
+}
+```
+
+---
 
 You can see what I am currently up to on [zaberazaber][1].
 
-## 📬 Get in touch
-
-<p align="center">
-<a href="https://www.linkedin.com/in/zubair001/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-zubair001?style=flat-square&logo=linkedin"></a>
-<a href="mailto:m.work.zubair@gmail.com@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-m.work.zubair@gmail.com-blue?style=flat-square&logo=gmail"></a>
-</p>
 
 
-<h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 
 
@@ -44,7 +48,7 @@ You can see what I am currently up to on [zaberazaber][1].
   ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  
+
 
 <br/>
 
@@ -56,9 +60,15 @@ You can see what I am currently up to on [zaberazaber][1].
 <br/>
 
 
-[1]:
-  https://zaberazaber.me/?utm_source=github.com&utm_medium=gh-profile-zaberazaber&utm_campaign=zaberazaber
+[1]:https://zaberazaber.me/?utm_source=github.com&utm_medium=gh-profile-zaberazaber&utm_campaign=zaberazaber
 [2]: https://www.linkedin.com/in/zubair001
 
 
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
+## 📬 Get in touch
+
+<p align="center">
+<a href="https://www.linkedin.com/in/zubair001/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-zubair001?style=flat-square&logo=linkedin"></a>
+<a href="mailto:m.work.zubair@gmail.com@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-m.work.zubair@gmail.com-blue?style=flat-square&logo=gmail"></a>
+</p>
