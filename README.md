@@ -21,23 +21,6 @@ const zubair = {
 
 You can see what I am currently up to on [zaberazaber][1].
 
-<!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-914-blue)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.3%20million%20lines%20of%20code-blue)
-
-**🐱 My Github Data** 
-
-> 🏆 18 Contributions in the Year 2021
- > 
-> 📦 334.4 kB Used in Github's Storage 
- > 
-> 💼 Opted to Hire
- > 
-> 📜 33 Public Repositories 
- > 
-> 🔑 18 Private Repositories  
- > 
 **I'm an Early 🐤** 
 
 ```text
@@ -60,45 +43,6 @@ Sunday       120 commits    ██████░░░░░░░░░░░�
 
 ```
 
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-Python                   55 mins             ████████████████░░░░░░░░░   67.28% 
-INI                      6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   8.11% 
-Other                    6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   7.66% 
-TOML                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   6.67% 
-Markdown                 4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   5.04%
-
-🔥 Editors: 
-PyCharm                  1 hr 22 mins        █████████████████████████   100.0%
-
-💻 Operating System: 
-Mac                      1 hr 22 mins        █████████████████████████   100.0%
-
-```
-
-**I Mostly Code in Vue** 
-
-```text
-Vue                      10 repos            ██████░░░░░░░░░░░░░░░░░░░   25.0% 
-Java                     7 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.5% 
-JavaScript               7 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.5% 
-Dart                     4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.0% 
-PHP                      3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   7.5%
-
-```
-
-
-**Timeline**
-
-![Chart not found](https://raw.githubusercontent.com/anmol098/anmol098/master/charts/bar_graph.png) 
-
-
-<!--END_SECTION:waka-->
 
 
 
